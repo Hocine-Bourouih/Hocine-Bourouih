@@ -78,5 +78,5 @@
 ---
 
 <p align="center">
-  <i>"Eat, Sleep, Code, Repeat. 🚀"</i>
+  <i>"Eat, Sleep, Code, Repeat"</i>
 </p>

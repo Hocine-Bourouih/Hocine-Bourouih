@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/hocine-bourouih">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://outlook.live.com/mail/0/deeplink/compose?to=hocine.bourouih@outlook.fr">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-  </a>
   <a href="https://github.com/Hocine-Bourouih">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>

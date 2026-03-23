@@ -19,6 +19,10 @@
   </a>
 </p>
 
+<p align="center">
+  📧 <code>hocine.bourouih@outlook.fr</code>
+</p>
+
 ---
 
 ## 🧠 À propos de moi
@@ -72,15 +76,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hocine-Bourouih&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hocine-Bourouih&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
 
 ---

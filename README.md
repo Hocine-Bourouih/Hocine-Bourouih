@@ -39,16 +39,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hocine-Bourouih&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hocine-Bourouih&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
-
----
 
 <p align="center">
   <i>"Code, apprends, répète."</i>

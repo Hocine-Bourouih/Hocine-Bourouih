@@ -11,7 +11,7 @@
   <a href="https://github.com/Hocine-Bourouih">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://hocine-bourouih.dev">
+  <a href="https://hocineb.tech/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
